@@ -1,0 +1,26 @@
+{
+  "name": "tz-convrter-jorgejmarroquin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/tz-convrter-JorgeJMarroquin.git"
+  },
+  "keywords": [],
+  "author": "JorgeJMarroquin <jorgejosuemarroquin@hotmail.com> (https://github.com/JorgeJMarroquin)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/tz-convrter-JorgeJMarroquin/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/tz-convrter-JorgeJMarroquin#readme",
+  "devDependencies": {
+    "@eslint/create-config": "^0.4.1",
+    "eslint": "^8.26.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
