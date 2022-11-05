@@ -1,6 +1,6 @@
 # Introduction of the TZ app
 
-## This application provides the desired time and date of a specific place in the world in real time.
+This application provides the desired time and date of a specific place in the world in real time.
 
 # Instructions on how to use the TZ app
 
